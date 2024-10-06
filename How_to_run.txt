@@ -1,0 +1,39 @@
+DURING SETUP:::::::::--------
+
+CREATE AN FOLDER NAME questiongenerator
+KEEP streamlit.py and main.py inside questiongenerator
+
+OPEN CMD
+
+python -m venv questiongenerator
+cd questiongenerator
+cd Scripts
+activate.bat
+cd ..
+cd ..
+
+
+pip install streamlit
+pip install spacy
+python -m spacy download en_core_web_sm
+pip install farm-haystack
+pip install contractions
+pip install git+https://github.com/boudinfl/pke.git
+pip install re
+pip install transformers
+pip install sentence-transformers
+pip install en_core_web_sm
+pip install numpy
+pip install torch
+pip install transformers[sentencepiece]
+pip install sentencepiece
+
+TO RUN 
+
+cd questiongenerator
+cd Scripts
+activate.bat
+cd ..
+cd ..
+
+streamlit run streamlit.py
