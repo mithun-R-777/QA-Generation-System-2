@@ -24,6 +24,7 @@ The primary objective of the QA Generation System is to facilitate learning thro
 
 #Installation and Usage
 
++ Refer How_to_run.txt
 + Clone the Repository: Use git clone https://github.com/mithun-777/QA-Generation-System-2.git to clone the repository to your local machine.
 + Install Dependencies: Navigate to the project directory and run pip install -r requirements.txt to install necessary packages.
 + Run the Application: Follow the instructions in the repository to start the application and begin generating questions.
