@@ -33,8 +33,4 @@ The primary objective of the QA Generation System is to facilitate learning thro
 
 Contributions are welcome! If you have suggestions, improvements, or bug reports, please open an issue or submit a pull request. Collaboration is encouraged to enhance the functionality and performance of the QA Generation System.
 
-**License**
-
-This project is licensed under the MIT License, allowing for modification and redistribution with proper attribution.
-For more information and to get started, please visit the repository at QA Generation System.
 
